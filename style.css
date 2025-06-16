@@ -1,0 +1,29 @@
+* {
+    background-color: rgb(107, 80, 49);
+    margin: 20px;
+    
+}
+#indexheading {
+    background-color: rgb(141, 132, 122);
+    text-align: center;
+}
+
+.recipeheading {
+    background-color: rgb(141, 132, 122);
+    text-align: center;
+}
+h3{
+    background-color: rgb(141, 132, 122);
+    text-align: center;
+    padding: 10px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.indexlists {
+    color: aquamarine;
+    padding: 10px;
+    margin: 20px;
+}
